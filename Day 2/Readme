@@ -1,0 +1,33 @@
+# 100 Days of Code - Python Pro Bootcamp
+
+## Day 2: Advanced Tip Calculator
+
+Welcome back to Day 2 of my 100 Days of Code journey! Today, I worked on creating an advanced tip calculator using Python. This calculator not only splits the bill among friends but also includes a customizable tip percentage.
+
+### Project Description
+
+- **Objective:** Build a tip calculator that takes the total bill, the number of people in the group, and the desired tip percentage as inputs, and calculates the amount each person should pay.
+
+- **Key Features:**
+  1. AI-enabled tip calculator (just for fun!).
+  2. User-friendly prompts for entering the total bill, number of people, and tip percentage.
+  3. Accurate calculation of the bill for each person, considering the specified tip.
+  4. Rounded and formatted result to two decimal places.
+
+### How to Run
+
+To use the Advanced Tip Calculator:
+1. Clone this repository.
+2. Run the Python script `tip_calculator.py`.
+3. Enter the total bill amount when prompted.
+4. Input the number of people in your group.
+5. Choose the desired tip percentage (e.g., 12%, 30%, 2%).
+6. Get the AI-enabled, precise amount each person should pay!
+
+### Thoughts and Reflections
+
+Building this tip calculator was a great exercise in handling user input, performing calculations, and formatting output. The inclusion of an AI touch adds a playful element to the project. Excited to continue exploring Python and enhancing my coding skills.
+
+Stay tuned for more updates and projects as the 100 Days of Code challenge progresses!
+
+Happy coding!
