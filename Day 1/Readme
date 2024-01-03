@@ -1,0 +1,32 @@
+# 100 Days of Code - Python Pro Bootcamp
+
+## Day 1: AI-Enabled Band Name Generator
+
+Welcome back to my 100 Days of Code challenge! Today marks the first day of my renewed commitment to coding excellence. To kick things off, I created a simple yet fun AI-enabled Band Name Generator using Python.
+
+### Project Description
+
+- **Objective:** Create a program that generates a unique band name based on user input.
+  
+- **Steps Taken:**
+  1. Created a warm greeting for the program.
+  2. Asked the user for the name of the city they grew up in.
+  3. Asked the user for the name of their pet.
+  4. Combined the city name and pet name to form a creative band name.
+  5. Ensured a clean and user-friendly input interface.
+
+### How to Run
+
+To try out the Band Name Generator:
+1. Clone this repository.
+2. Run the Python script `band_name_generator.py`.
+3. Follow the prompts to enter your city and pet name.
+4. Discover your personalized band name suggestion!
+
+### Thoughts and Reflections
+
+A great start to the 100 Days of Code challenge! This project not only refreshed my Python skills but also brought a smile to my face. Excited to continue this coding journey and see what the next 99 days hold.
+
+Stay tuned for more updates and projects throughout the challenge!
+
+Happy coding!
